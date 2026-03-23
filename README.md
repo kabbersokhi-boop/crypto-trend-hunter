@@ -12,7 +12,7 @@
 
 ## What This Is
 
-I built this after losing money during the 2024 memecoin supercycle — not from bad analysis, but bad infrastructure. While I was watching one coin, PEPE ran 300%. BONK was being accumulated by whales. I missed three 5x opportunities in one week.
+I built this after losing money during the 2024 memecoin supercycle. Not from bad analysis. Bad infrastructure. While I was locked on TrumpCoin, PEPE ran 300%. BONK was being accumulated by whales. I missed three 5x opportunities in one week.
 
 This system fixes that.
 
