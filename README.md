@@ -11,10 +11,11 @@
 ---
 
 ## What This Is
+In late 2024, I was deep in the chaos of the memecoin supercycle. OFFICIAL TRUMP launched and within 72 hours had a fully diluted valuation north of $70 billion. I was glued to my screen making a critical mistake: watching only what I already knew about. Tunnel vision on TRUMP. Meanwhile PEPE was staging a 300% recovery. Algorand was trending on r/CryptoCurrency with institutional backing nobody was talking about. BONK was being accumulated by whale wallets while Reddit argued about Trump's next executive order.
 
-I built this after losing money during the 2024 memecoin supercycle. Not from bad analysis. Bad infrastructure. While I was locked on TrumpCoin, PEPE ran 300%. BONK was being accumulated by whales. I missed three 5x opportunities in one week.
+I missed three separate 5x opportunities in one week. Not from lack of conviction, from lack of infrastructure. No tool existed that could monitor Reddit sentiment across multiple communities, correlate it with live price data, and surface signals before the crowd caught on.
 
-This system fixes that.
+So I built one.
 
 Every 30 minutes it automatically:
 - Scrapes **4 Reddit communities** (r/CryptoMoonShots, r/wallstreetbets, r/Bitcoin, r/CryptoCurrency)
