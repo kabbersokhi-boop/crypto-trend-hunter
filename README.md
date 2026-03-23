@@ -11,7 +11,7 @@
 ---
 
 ## What This Is
-In late 2024, I was deep in the chaos of the memecoin supercycle. OFFICIAL TRUMP launched and within 72 hours had a fully diluted valuation north of $70 billion. I was glued to my screen making a critical mistake: watching only what I already knew about. Tunnel vision on TRUMP. Meanwhile PEPE was staging a 300% recovery. Algorand was trending on r/CryptoCurrency with institutional backing nobody was talking about. BONK was being accumulated by whale wallets while Reddit argued about Trump's next executive order.
+In late 2024, I was deep in the chaos of the memecoin supercycle. OFFICIAL TRUMP launched and within 72 hours had a fully diluted valuation north of $70 billion. Dozens of derivative coins were launching every hour: MELANIA, BARRON, cabinet member tokens, each with their own Reddit communities and price action that could 10x or go to zero in the same afternoon. I was glued to my screen making a critical mistake: watching only what I already knew about. Tunnel vision on TRUMP. Meanwhile PEPE was staging a 300% recovery. Algorand was trending on r/CryptoCurrency with institutional backing nobody was talking about. BONK was being accumulated by whale wallets while Reddit argued about Trump's next executive order.
 
 I missed three separate 5x opportunities in one week. Not from lack of conviction, from lack of infrastructure. No tool existed that could monitor Reddit sentiment across multiple communities, correlate it with live price data, and surface signals before the crowd caught on.
 
